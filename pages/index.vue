@@ -1,5 +1,8 @@
 <template>
-  <Header />
+  <div>
+    <Header />
+    <list />
+  </div>
 </template>
 
 <script lang="ts">
